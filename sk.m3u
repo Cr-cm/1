@@ -1,0 +1,66 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 group-title="⛵  港澳台",香港有线新闻
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226251/2/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰中文
+http://[2409:8087:3800:20:1000::40a]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226248/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰资讯
+http://[2409:8087:3800:20:1000::80f]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226274/index.m3u8
+#EXTINF:-1,group-title="⛵  港澳台",凤凰香港
+http://[2409:8087:3800:2020:1000::40c]:8080/hwrr.jx.chinamobile.com:8080/PLTV/3/224/3221226251/index.m3u8
+#EXTINF:-1,group-title="🌎️ 世界一锅端",HKC 18
+mitv://generationnexxxt.com:19806/2ea5b3599fc94ffbaf94bcec0b1a436d
+#EXTINF:-1,group-title="🌎️ 世界一锅端",HKC 603
+mitv://generationnexxxt.com:19806/2141e79414314275a21c96d6b9a74933
+#EXTINF:-1,group-title="🌎️ 世界一锅端",HKC體育台
+mitv://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
+#EXTINF:-1,group-title="🌎️ 世界一锅端",HKC Sports Plus 1
+mitv://generationnexxxt.com:19806/82f71e9986084c86a85807f6fa9ab8a5
+#EXTINF:-1,group-title="🌎️ 世界一锅端",HKC综合娱乐台
+mitv://generationnexxxt.com:19806/f4815802ef204971b9820b0d6e0bd096
+#EXTINF:-1,group-title="🌎️ 世界一锅端",TVB娱乐新闻台
+mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+#EXTINF:-1,group-title="🌎️ 世界一锅端",翡翠台
+mitv://generationnexxxt.com:19806/9e33aa15fae14d189885cd8c7775f019
+#EXTINF:-1,group-title="🌎️ 世界一锅端",TVB经典台
+mitv://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268
+#EXTINF:-1,group-title="🌎️ 世界一锅端",Thrill
+mitv://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471
+#EXTINF:-1,group-title="🌎️ 世界一锅端",明珠台
+mitv://generationnexxxt.com:19806/257d9994803542a794790504c2cd0a8e
+#EXTINF:-1,group-title="🌎️ 世界一锅端",18台
+mitv://generationnexxxt.com:19806/e4667b3da6a54f32a48cc60d1157b195
+#EXTINF:-1,group-title="🌎️ 世界一锅端",HKC Sports Plus 3
+mitv://generationnexxxt.com:19806/a27709fdfa574a5f9ca52c490a37435b
+#EXTINF:-1,group-title="🌎️ 世界一锅端",功夫台(华语)
+mitv://generationnexxxt.com:19806/651ac61abc284f0598508227494861df
+#EXTINF:-1,group-title="🌎️ 世界一锅端",美亚电影台(粤语)
+mitv://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd
+#EXTINF:-1,group-title="🌎️ 世界一锅端",Hands Up
+mitv://generationnexxxt.com:19806/71c595ca79444d38bb75c51ed6af947d
+#EXTINF:-1,group-title="🌎️ 世界一锅端",粤语片台
+mitv://generationnexxxt.com:19806/8df4123dc70e4963ba8e3c70114c1ab9
+#EXTINF:-1,group-title="🌎️ 世界一锅端",亚洲剧台
+mitv://generationnexxxt.com:19806/33c1ad8276a34a8e8c46965da4f44e19
+#EXTINF:-1,group-title="🌎️ 世界一锅端",功夫台
