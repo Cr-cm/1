@@ -10,6 +10,16 @@
             "filterable": 1
         },
 	    {
+		    "key":"dr_88看球",
+		    "name":"⚽|88看球",
+		    "type":3,
+		    "api":"./js/lib/drpy2.min.js",
+		    "searchable":0,
+		    "quickSearch":0,
+		    "filterable":0,
+		    "ext":"./js/88看球.js"
+	    },
+	    {
 		    "key":"dr_豆瓣",
 		    "name":"🔍┃豆瓣荐片",
 		    "type":3,
